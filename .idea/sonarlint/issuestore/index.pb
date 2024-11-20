@@ -9,3 +9,7 @@ M
 contracts/player-economy.clar,5/d/5deaabd3c6717f0c77e14260fd41226b4b7fd0fe
 L
 tests/player-economy.test.ts,7/a/7a682cf08e14784b607298f48958730be36d189f
+R
+"contracts/cross-game-transfer.clar,5/2/5240ac4494ca22bdbc1e701e44479fd233b79794
+Q
+!tests/cross-game-transfer.test.ts,c/3/c3eeaf86cb085a8e324fc770afb7781cbe2fe1fc

@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.cross-game-transfer]
+path = 'contracts/cross-game-transfer.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.game-items]
 path = 'contracts/game-items.clar'
 clarity_version = 2
