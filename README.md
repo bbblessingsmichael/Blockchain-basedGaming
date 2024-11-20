@@ -1,2 +1,2 @@
 # Blockchain-basedGaming
- In-game asset tokenization Player-owned economies Cross-game item transfers
+In-game asset tokenization Player-owned economies Cross-game item transfers
